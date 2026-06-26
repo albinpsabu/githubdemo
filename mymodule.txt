@@ -1,1 +1,2 @@
  print("hello my first module")
+print("print my image")
