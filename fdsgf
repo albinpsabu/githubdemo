@@ -1,0 +1,60 @@
+[33mcommit 2116079bbaecb8d5aa6380f97559d039bf641a60[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: albinpsabu <albinpsabu5@gmail.com>
+Date:   Fri Jun 26 15:20:46 2026 +0530
+
+    fifth commit
+
+[33mcommit 8cd81d85feb3e1d0246ca435a01f39a51453bd6f[m
+Author: albinpsabu <albinpsabu5@gmail.com>
+Date:   Fri Jun 26 15:20:21 2026 +0530
+
+    fourth commit
+
+[33mcommit 46a64e60f4c6edbbf868b000bd05e2945b5226cc[m
+Author: albinpsabu <albinpsabu5@gmail.com>
+Date:   Fri Jun 26 15:19:30 2026 +0530
+
+    third commit
+
+[33mcommit 01e96d54307fa6b432da2816a3a85d4cca16ae2c[m
+Author: albinpsabu <albinpsabu5@gmail.com>
+Date:   Fri Jun 26 15:15:43 2026 +0530
+
+    second commit
+
+[33mcommit ea545e60a3600fa4e68d270f6778c3d17f1835fb[m[33m ([m[1;32muse[m[33m, [m[1;32mmy_first_ver_branch[m[33m)[m
+Merge: 5bc6e2d e36cedc
+Author: albinpsabu <albinpsabu5@gmail.com>
+Date:   Fri Jun 26 14:42:54 2026 +0530
+
+    resolved the conflict and merged
+
+[33mcommit e36cedcf63fc00294f72aa4e723fafaca0158d4d[m[33m ([m[1;32mweek1-client-changes[m[33m)[m
+Author: albinpsabu <albinpsabu5@gmail.com>
+Date:   Fri Jun 26 14:40:29 2026 +0530
+
+    second commit
+
+[33mcommit 5bc6e2d6ad543fffefc48bb66789b4fce39de216[m
+Author: albinpsabu <albinpsabu5@gmail.com>
+Date:   Fri Jun 26 14:34:16 2026 +0530
+
+    second commit
+
+[33mcommit 2bcaed3bdebdb7ba34d1f115fc96ed3f95fda2f5[m
+Author: albinpsabu <albinpsabu5@gmail.com>
+Date:   Fri Jun 26 14:14:29 2026 +0530
+
+    second commit
+
+[33mcommit 80cdfd284201cc0a9f95899efafd4223608012df[m
+Author: albinpsabu <albinpsabu5@gmail.com>
+Date:   Fri Jun 26 12:32:45 2026 +0530
+
+    completed week1 changes
+
+[33mcommit d3612e03b9b7d3f953013e8c9d55229c623884e9[m
+Author: albinpsabu <albinpsabu5@gmail.com>
+Date:   Fri Jun 26 12:12:07 2026 +0530
+
+    my first version
