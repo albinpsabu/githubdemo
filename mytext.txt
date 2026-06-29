@@ -1,11 +1,9 @@
 print("my first line")
 print("my second line")
 print("my latest third line")
-<<<<<<< HEAD
 print(my second commit)
 print(my third commit)
 print(my fourth commit)
 print(my fifth commit)
 
-=======
->>>>>>> parent of 01e96d5 (second commit)
+print (my fourth line to push to github)
